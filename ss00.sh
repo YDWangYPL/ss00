@@ -312,7 +312,7 @@ EOF
 #主菜单
 menu() {
   clear
-  green "安装sing-box"
+  green " go run"
   install_singbox
 }
 menu
